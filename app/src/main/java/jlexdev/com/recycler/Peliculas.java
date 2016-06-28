@@ -5,16 +5,16 @@ package jlexdev.com.recycler;
  */
 public class Peliculas {
 
-    private int imagenPeliculas;
+    private int imagenPelicula;
     private String nombrePelicula;
 
     public Peliculas(int imagenPeliculas, String nombrePelicula) {
-        this.imagenPeliculas = imagenPeliculas;
+        this.imagenPelicula = imagenPeliculas;
         this.nombrePelicula = nombrePelicula;
     }
 
     public int getImagenPeliculas() {
-        return imagenPeliculas;
+        return imagenPelicula;
     }
 
     public String getNombrePelicula() {
