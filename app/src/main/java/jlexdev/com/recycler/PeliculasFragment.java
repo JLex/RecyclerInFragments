@@ -36,16 +36,17 @@ public class PeliculasFragment extends Fragment {
 
         // Cargo DATOS -------- :D :D :D :D :D --------
         datos = new ArrayList<Peliculas>();
-            datos.add(new Peliculas(R.drawable.img_alvin, "Alvin y las Ardillas"));
-            datos.add(new Peliculas(R.drawable.img_angry, "Angry Birds"));
-            datos.add(new Peliculas(R.drawable.img_cazador, "El Cazador y la Reina del Hielo"));
-            datos.add(new Peliculas(R.drawable.img_civilwar, "Civil War"));
-            datos.add(new Peliculas(R.drawable.img_deadpool, "DeadPool"));
-            datos.add(new Peliculas(R.drawable.img_dioses, "Dioses de Egipto"));
-            datos.add(new Peliculas(R.drawable.img_era, "La era de Hielo"));
-            datos.add(new Peliculas(R.drawable.img_jobs, "Steve Jobs"));
-            datos.add(new Peliculas(R.drawable.img_panda, "Kung Fu Panda"));
-            datos.add(new Peliculas(R.drawable.img_xmen, "X-Men Apocalipsis"));
+
+        datos.add(new Peliculas(R.drawable.img_angry, "Angry Birds"));
+        datos.add(new Peliculas(R.drawable.img_cazador, "El Cazador y la Reina del Hielo"));
+        datos.add(new Peliculas(R.drawable.img_civilwar, "Civil War"));
+        datos.add(new Peliculas(R.drawable.img_deadpool, "DeadPool"));
+        datos.add(new Peliculas(R.drawable.img_dioses, "Dioses de Egipto"));
+        datos.add(new Peliculas(R.drawable.img_era, "La era de Hielo"));
+        datos.add(new Peliculas(R.drawable.img_jobs, "Steve Jobs"));
+        datos.add(new Peliculas(R.drawable.img_panda, "Kung Fu Panda"));
+        datos.add(new Peliculas(R.drawable.img_alvin, "Alvin y las Ardillas"));
+        datos.add(new Peliculas(R.drawable.img_xmen, "X-Men Apocalipsis"));
 
 
 
